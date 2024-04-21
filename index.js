@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching my DMs"];
+const statusMessages = ["⚠️UNCENSORED⚠️"];
 
 
 let currentIndex = 0;
