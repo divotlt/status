@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["⚠️UNCENSORED⚠️"];
+const statusMessages = ["Checking Server"];
 
 
 let currentIndex = 0;
